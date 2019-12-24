@@ -5,6 +5,7 @@ PHP Web Application
 
 Running like this...<br/><br/>
 [XAMPP - Apache and MySQL]<br/>
+[Apache HTTP Server]<br/>
 [MySQL Database]<br/>
 [PhpMyAdmin for Database View/Schema]<br/>
 [Bootstrap - Front-end framework]<br/>
