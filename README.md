@@ -25,7 +25,7 @@ What I used...<br/>
 <img src="/Images/placeorder2.PNG"></img>
 <img src="/Images/ordertotal.PNG"></img>
 <img src="/Images/ordersuccess.PNG"></img>
-<img src="/Images/pastorder.PNG"></img>
+<img src="/Images/pastorders.PNG"></img>
 <img src="/Images/allorders.PNG"></img>
 
 
