@@ -17,7 +17,9 @@ What I used...<br/>
 
 <img src="/Images/index.PNG"></img>
 <img src="/Images/home.PNG"></img>
-<img src="/Images/order1.PNG"></img>
-<img src="/Images/order2.PNG"></img>
-<img src="/Images/ordersubmit.PNG"></img>
+<img src="/Images/placeorder1.PNG"></img>
+<img src="/Images/placeorder2.PNG"></img>
+<img src="/Images/placeorder1.PNG"></img>
+<img src="/Images/placeorder2.PNG"></img>
+<img src="/Images/pastorder.PNG"></img>
 
