@@ -19,7 +19,9 @@ What I used...<br/>
 <img src="/Images/home.PNG"></img>
 <img src="/Images/placeorder1.PNG"></img>
 <img src="/Images/placeorder2.PNG"></img>
-<img src="/Images/placeorder1.PNG"></img>
-<img src="/Images/placeorder2.PNG"></img>
+<img src="/Images/ordertotal.PNG"></img>
+<img src="/Images/ordersuccess.PNG"></img>
 <img src="/Images/pastorder.PNG"></img>
+<img src="/Images/allorders.PNG"></img>
+
 
