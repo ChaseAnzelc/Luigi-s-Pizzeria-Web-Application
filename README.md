@@ -1,4 +1,4 @@
-# Luigi's Pizzaria Web Application
+# Luigi's Pizzeria Web Application
 
 PHP Web Application
 
