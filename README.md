@@ -10,8 +10,13 @@ Running like this...<br/><br/>
 [PhpMyAdmin for Database View/Schema]<br/>
 [Bootstrap - Front-end framework]<br/>
 
-What I used...<br/>
-[PHP][HTML][MySQL][Bootstrap]<br/>
+The Stack...<br/>
+Front-End:
+[HTML][CSS][JavaScript][Bootstrap]
+Back-End:
+[PHP][Apache HTTP Server]
+Database:
+[MySQL]<br/>
 
 # Demo
 
