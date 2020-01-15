@@ -11,11 +11,11 @@ Running like this...<br/><br/>
 [Bootstrap - Front-end framework]<br/>
 
 The Stack...<br/>
-Front-End:
-[HTML][CSS][JavaScript][Bootstrap]
-Back-End:
-[PHP][Apache HTTP Server]
-Database:
+Front-End:</br>
+[HTML][CSS][JavaScript][Bootstrap]</br>
+Back-End:</br>
+[PHP][Apache HTTP Server]</br>
+Database:</br>
 [MySQL]<br/>
 
 # Demo
